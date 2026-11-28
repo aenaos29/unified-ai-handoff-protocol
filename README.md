@@ -77,6 +77,7 @@ First evaluate manual handoffs against summaries and full history. Develop a min
 - [Review methodology and findings](REVIEW.md)
 - [Acknowledgments](ACKNOWLEDGMENTS.md)
 - [Change log](CHANGELOG.md)
+- [Veridian Plaza handoff example](examples/playground/veridian-plaza-handoff-v0.1.md)
 
 No implementation, standardization, measured benefit or provider endorsement is claimed. Copyright © 2026 Aenaos. The documentation is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).
 
